@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmaple_gold_octo_strategy_simulator=self.webpackChunkmaple_gold_octo_strategy_simulator||[]).push([[952],{952:e=>{e.exports=function(){throw new Error("ws does not work in the browser. Browser clients must use the native WebSocket object")}}}]);
-//# sourceMappingURL=952.d84d4bb7.chunk.js.map
