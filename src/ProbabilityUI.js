@@ -110,7 +110,12 @@ const ProbabilityUI = () => {
 
   return (
     <Container>
-      <Typography variant="h3" gutterBottom align="center" mt={4} mb={8}>황금 문어 확률 계산기</Typography>
+      <Typography variant="h3" gutterBottom align="center" m={4}>황금 문어 확률 계산기</Typography>
+
+      <Stack mb={8}>
+        <Typography variant="h7" gutterBottom align="center">목표 레벨에 도달하면 즉시 탈출하는 경우를 가정하고 계산한 확률과 기댓값 입니다.</Typography>
+        <Typography variant="h7" gutterBottom align="center">대성공은 고려되지 않았습니다.</Typography>
+      </Stack>
 
       <Stack direction="row" spacing={4} mb={4}>
         <Stack flex={1}>
