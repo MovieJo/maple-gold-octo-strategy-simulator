@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/maple-gold-octo-strategy-simulator/static/css/main.e6c13ad2.css",
-    "main.js": "/maple-gold-octo-strategy-simulator/static/js/main.c8015d19.js",
+    "main.js": "/maple-gold-octo-strategy-simulator/static/js/main.4e165a23.js",
     "static/js/453.ab33e847.chunk.js": "/maple-gold-octo-strategy-simulator/static/js/453.ab33e847.chunk.js",
     "index.html": "/maple-gold-octo-strategy-simulator/index.html",
     "main.e6c13ad2.css.map": "/maple-gold-octo-strategy-simulator/static/css/main.e6c13ad2.css.map",
-    "main.c8015d19.js.map": "/maple-gold-octo-strategy-simulator/static/js/main.c8015d19.js.map",
+    "main.4e165a23.js.map": "/maple-gold-octo-strategy-simulator/static/js/main.4e165a23.js.map",
     "453.ab33e847.chunk.js.map": "/maple-gold-octo-strategy-simulator/static/js/453.ab33e847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c8015d19.js"
+    "static/js/main.4e165a23.js"
   ]
 }
